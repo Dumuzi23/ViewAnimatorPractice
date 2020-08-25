@@ -1,0 +1,16 @@
+PODS:
+  - ViewAnimator (2.7.0)
+
+DEPENDENCIES:
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+
+PODFILE CHECKSUM: c38543cd988aed72fb02154809759af3c4ed4eec
+
+COCOAPODS: 1.9.0
